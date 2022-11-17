@@ -15,6 +15,7 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2022
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training | ArXiv 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2210.04845.pdf) | - |
 | Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark | ECCV 2022 | LVIS & MS COCO | [PDF](https://arxiv.org/pdf/2207.11169.pdf) | - |
 | AirDet: Few-Shot Detection without Fine-Tuning for Autonomous Exploration | ECCV 2022 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2112.01740.pdf) | [CODE](https://github.com/Jaraxxus-Me/AirDet) |
 | Less than Few: Self-Shot Video Instance Segmentation | ECCV 2022 | MS COCO | [PDF](https://arxiv.org/pdf/2204.08874.pdf) | - |
