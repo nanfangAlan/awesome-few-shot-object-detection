@@ -62,9 +62,10 @@ Collect some papers about few-shot object detection for computer vision. Additio
 ### 2020
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Few-shot object detection by second-order pooling | ACCV 2020 | PASCAL VOC & MS COCO & FSOD | [PDF](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_Few-Shot_Object_Detection_by_Second-order_Pooling_ACCV_2020_paper.pdf) | - |
 | Restoring Negative Information in Few-Shot Object Detection | NeurIPS 2020 | PASCAL VOC & ImageNet-LOC | [PDF](https://proceedings.neurips.cc/paper/2020/hash/240ac9371ec2671ae99847c3ae2e6384-Abstract.html) | [CODE](https://github.com/yang-yk/NP-RepMet) |
 | Context-Transformer: Tackling Object Confusion for Few-Shot Detection | AAAI 2020 | PASCAL VOC & MS COCO | [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/6957/6811) | [CODE](https://github.com/Ze-Yang/Context-Transformer) |
-| Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector | CVPR 2020 | MS COCO & ImageNet-LOC | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Few-Shot_Object_Detection_With_Attention-RPN_and_Multi-Relation_Detector_CVPR_2020_paper.pdf) | [CODE](https://github.com/fanq15/FSOD-code) |
+| Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector | CVPR 2020 | MS COCO & ImageNet-LOC & FSOD 1<sup>st</sup> & KITTI & Cityscapes | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Few-Shot_Object_Detection_With_Attention-RPN_and_Multi-Relation_Detector_CVPR_2020_paper.pdf) | [CODE](https://github.com/fanq15/FSOD-code) |
 | Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild | ECCV 2020 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2007.12107.pdf) | [CODE](http://imagine.enpc.fr/~xiaoy/FSDetView/) |
 | Multi-Scale Positive Sample Refinement for Few-Shot Object Detection | ECCV 2020 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2007.09384.pdf?ref=https://githubhelp.com) | [CODE](https://github.com/jiaxi-wu/MPSR) |
 | META-RCNN: META LEARNING FOR FEW-SHOT OBJECT DETECTION | ICLR 2020 | PASCAL VOC & ImageNet-LOC | [PDF](https://openreview.net/pdf?id=B1xmOgrFPS) | - |
